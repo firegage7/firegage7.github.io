@@ -1,0 +1,28 @@
+body {
+    background: #b3b3b3;
+}
+h1 {
+	color: green;
+}
+
+h2 {
+     color: green;
+
+}
+
+
+
+
+img{
+     display: block;
+      height: 400px;
+      width:auto;
+}
+
+
+#tittle {
+
+background: black;
+    width: 600px;
+
+}
